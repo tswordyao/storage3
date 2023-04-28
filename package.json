@@ -1,0 +1,20 @@
+{
+  "name": "storage3",
+  "version": "1.0.5",
+  "description": "storage3: cookie,local,session",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "js-cookie": "^3.0.1"
+  },
+  "keywords": [
+    "storage",
+    "cookie",
+    "session",
+    "auth"
+  ],
+  "author": "tsword yao",
+  "license": "ISC"
+}
